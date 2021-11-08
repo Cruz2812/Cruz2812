@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cruz2812
+- 👀 I’m interested in becomeing a data scientist
+- 🌱 I’m currently getting my master's degree in data science with Steven's Institute of Technology.
+- 💞️ I’m looking to post any projects I am working on or code from books I am reading.
